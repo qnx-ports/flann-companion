@@ -1,4 +1,3 @@
 abuild
 qnx-packaging
-libc++-dev
 
